@@ -19,7 +19,7 @@ try:
 
     for statement in statements:
         # Skip adding the loyalty column if it already exists.
-        if statement.upper().startswith("ALTER TABLE CUSTOMERS"):
+        if "ALTER TABLE CUSTOMERS" in statement.upper():
             columns = [
                 row[1]
                 for row in connection.execute(
