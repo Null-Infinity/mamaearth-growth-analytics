@@ -1,0 +1,35 @@
+MAMAEARTH GROWTH ANALYTICS — FINDINGS SUMMARY
+
+DATA NOTE
+This project uses a synthetic educational dataset. These are not official Mamaearth business figures.
+
+DATA QUALITY
+The raw dataset contained 180 orders.
+After removing 5 duplicate
+submissions, 175 orders remained.
+
+REVENUE
+Revenue from the cleaned orders was
+₹236,109.75.
+
+RETURNS
+COD had the highest observed return rate,
+at 35.38% across
+65 orders. This is an association in the
+dataset and does not establish causation.
+
+MONTHLY REVENUE AND OUTLIERS
+Including flagged quantity outliers, the peak month was
+2025-11, with revenue of
+₹80,780.30.
+
+Excluding flagged quantity outliers, the peak month was
+2025-10, with revenue of
+₹49,022.05.
+
+INTERPRETATION
+Large-quantity orders can materially affect monthly revenue.
+Both revenue views should be considered when interpreting trends.
+
+These findings describe a synthetic educational dataset and must
+not be presented as official Mamaearth business performance.

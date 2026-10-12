@@ -1,0 +1,17 @@
+product_id,product_name,category,price_inr
+P001,Ubtan Face Wash,Skincare,299
+P002,Vitamin C Face Wash,Skincare,399
+P003,HydraGel Face Moisturizer,Skincare,499
+P004,Ultra Light Sunscreen,Skincare,699
+P005,Onion Shampoo,Haircare,349
+P006,Argan Hair Mask,Haircare,449
+P007,Anti-Hair Fall Conditioner,Haircare,399
+P008,Hair Growth Serum,Haircare,799
+P009,Baby Lotion,Baby Care,249
+P010,Baby Shampoo,Baby Care,229
+P011,Baby Body Wash,Baby Care,299
+P012,Baby Massage Oil,Baby Care,399
+P013,Aloe Vera Gel,Body Care,199
+P014,Body Butter,Body Care,499
+P015,Vitamin C Body Lotion,Body Care,599
+P016,Complete Skin Care Kit,Skincare,899

@@ -1,0 +1,46 @@
+customer_id,customer_name,city,city_tier,signup_date,acquisition_source
+C001,Aarav Sharma,Jaipur,2,2025-05-07,Influencer
+C002,Aditi Sen,Chennai,1,2023-12-09,Instagram
+C003,Ananya Das,Jaipur,2,2024-11-11,YouTube
+C004,Arjun Mehta,Kolkata,1,2024-04-17,Email Campaign
+C005,Aisha Khan,Jaipur,2,2023-04-08,Influencer
+C006,Aditya Rao,Mumbai,1,2025-03-20,YouTube
+C007,Amrita Bose,Kochi,2,2023-09-24,Referral
+C008,Aniket Roy,Delhi,1,2025-08-04,Organic Search
+C009,Priya Nair,Nagpur,2,2024-02-04,Influencer
+C010,Rohan Verma,Mumbai,1,2025-07-02,Instagram
+C011,Sneha Iyer,Surat,2,2024-02-18,Google Ads
+C012,Karan Patel,Hyderabad,1,2024-03-17,Google Ads
+C013,Ishita Mukherjee,Kochi,2,2025-04-19,YouTube
+C014,Rahul Gupta,Mumbai,1,2023-12-14,Email Campaign
+C015,Kavya Menon,Surat,2,2024-01-06,Referral
+C016,Vikram Joshi,Chennai,1,2024-05-14,Influencer
+C017,Meera Chatterjee,Coimbatore,2,2025-02-01,Google Ads
+C018,Sanjay Kapoor,Hyderabad,1,2024-07-11,Organic Search
+C019,Pooja Malhotra,Lucknow,2,2024-03-18,Organic Search
+C020,Nikhil Saxena,Hyderabad,1,2024-10-04,Instagram
+C021,Diya Banerjee,Nagpur,2,2023-05-05,Instagram
+C022,Siddharth Kulkarni,Hyderabad,1,2024-09-22,Instagram
+C023,Riya Sinha,Nagpur,2,2024-03-14,Organic Search
+C024,Manav Bhatia,Mumbai,1,2024-05-29,Email Campaign
+C025,Tanya Desai,Jaipur,2,2023-01-31,Organic Search
+C026,Kabir Mishra,Delhi,1,2024-10-28,Organic Search
+C027,Neha Pillai,Lucknow,2,2023-03-26,Referral
+C028,Varun Dutta,Mumbai,1,2024-11-29,Email Campaign
+C029,Simran Gill,Indore,2,2023-11-23,Organic Search
+C030,Dev Chopra,Bengaluru,1,2023-01-06,Influencer
+C031,Ira Reddy,Lucknow,2,2024-06-26,YouTube
+C032,Harsh Jain,Bengaluru,1,2023-07-25,Referral
+C033,Nandini Ghosh,Coimbatore,2,2023-05-02,YouTube
+C034,Yash Agarwal,Chennai,1,2025-04-10,Organic Search
+C035,Sanya Thomas,Nagpur,2,2023-08-30,Referral
+C036,Aman Bajaj,Bengaluru,1,2023-03-19,Email Campaign
+C037,Anushka Lal,Nagpur,2,2025-07-17,YouTube
+C038,Mihir Deshmukh,Delhi,1,2023-11-04,Google Ads
+C039,Zoya Ali,Lucknow,2,2023-07-30,Google Ads
+C040,Parth Shah,Delhi,1,2024-02-03,YouTube
+C041,Tanvi Sengupta,Jaipur,2,2024-05-13,Influencer
+C042,Ojas Kamat,Mumbai,1,2023-05-07,Google Ads
+C043,Lavanya Rajan,Bhubaneswar,2,2025-01-21,Referral
+C044,Reyansh Paul,Kolkata,1,2024-05-12,Google Ads
+C045,Anvi Sarkar,Lucknow,2,2024-11-24,Organic Search

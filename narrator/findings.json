@@ -1,0 +1,99 @@
+{
+  "project": "Mamaearth Growth Analytics",
+  "data_note": "This project uses a synthetic educational dataset. These are not official Mamaearth business figures.",
+  "raw_order_count": 180,
+  "cleaned_order_count": 175,
+  "duplicate_submissions_removed": 5,
+  "cleaned_revenue_inr": 236109.75,
+  "quantity_outlier_count": 2,
+  "payment_method_return_rates": [
+    {
+      "payment_method": "CARD",
+      "total_orders": 55,
+      "returned_orders": 3,
+      "return_rate_pct": 5.45
+    },
+    {
+      "payment_method": "COD",
+      "total_orders": 65,
+      "returned_orders": 23,
+      "return_rate_pct": 35.38
+    },
+    {
+      "payment_method": "UPI",
+      "total_orders": 55,
+      "returned_orders": 5,
+      "return_rate_pct": 9.09
+    }
+  ],
+  "monthly_revenue": [
+    {
+      "month": "2025-01",
+      "revenue_including_outliers_inr": 10572.7,
+      "revenue_excluding_outliers_inr": 10572.7
+    },
+    {
+      "month": "2025-02",
+      "revenue_including_outliers_inr": 8809.15,
+      "revenue_excluding_outliers_inr": 8809.15
+    },
+    {
+      "month": "2025-03",
+      "revenue_including_outliers_inr": 10523.95,
+      "revenue_excluding_outliers_inr": 10523.95
+    },
+    {
+      "month": "2025-04",
+      "revenue_including_outliers_inr": 10309.75,
+      "revenue_excluding_outliers_inr": 10309.75
+    },
+    {
+      "month": "2025-05",
+      "revenue_including_outliers_inr": 10991.25,
+      "revenue_excluding_outliers_inr": 10991.25
+    },
+    {
+      "month": "2025-06",
+      "revenue_including_outliers_inr": 11865.45,
+      "revenue_excluding_outliers_inr": 11865.45
+    },
+    {
+      "month": "2025-07",
+      "revenue_including_outliers_inr": 11179.55,
+      "revenue_excluding_outliers_inr": 11179.55
+    },
+    {
+      "month": "2025-08",
+      "revenue_including_outliers_inr": 8482.35,
+      "revenue_excluding_outliers_inr": 8482.35
+    },
+    {
+      "month": "2025-09",
+      "revenue_including_outliers_inr": 11104.0,
+      "revenue_excluding_outliers_inr": 11104.0
+    },
+    {
+      "month": "2025-10",
+      "revenue_including_outliers_inr": 49022.05,
+      "revenue_excluding_outliers_inr": 49022.05
+    },
+    {
+      "month": "2025-11",
+      "revenue_including_outliers_inr": 80780.3,
+      "revenue_excluding_outliers_inr": 6867.8
+    },
+    {
+      "month": "2025-12",
+      "revenue_including_outliers_inr": 12469.25,
+      "revenue_excluding_outliers_inr": 12469.25
+    }
+  ],
+  "peak_month_including_outliers": {
+    "month": "2025-11",
+    "revenue_inr": 80780.3
+  },
+  "peak_month_excluding_outliers": {
+    "month": "2025-10",
+    "revenue_inr": 49022.05
+  }
+}
